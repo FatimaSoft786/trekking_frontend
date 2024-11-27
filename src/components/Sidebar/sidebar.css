@@ -1,0 +1,19 @@
+.bg_one{
+    background-color: #000 !important;
+}
+.nav-link.active {
+    background-color: #f8f9fa; /* Example active background color */
+    color: #007bff; /* Example active text color */
+  }
+  .ml-3{
+    margin-top: 0px !important;
+  }
+  h6{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.ml-3, .mx-3 {
+  margin-left: 0rem !important;
+}

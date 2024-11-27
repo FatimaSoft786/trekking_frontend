@@ -1,0 +1,301 @@
+.auth .auth-form-light
+{
+    width: 100% ! important;
+    /* margin-left: 100px; */
+    padding-top: 50px ! important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+.auth .auth-form-light
+{
+    border-radius: 0px ! important;
+}
+.left_one
+{
+    height: 100vh !important;
+   
+}
+.right_one
+{
+    height: 100vh !important;
+    padding-right: 0px ! important;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    background-color: #1E3A8A;
+    /* border-radius: 0px 27px 118px 0px !important; */
+    border-radius: 0% 7% 7% 0% !important;
+    /* border-start-end-radius: 205px !important; */
+    margin-right: 50px !important;
+    max-width: 45% ! important;
+    /* border-radius: 0px 192% 183% 0px / 373% 894% 945% 184%; */
+}
+.page-body-wrapper.full-page-wrapper {
+    min-height: 100vh;
+    padding: 20px !important;
+}
+
+.right_one img 
+{
+    height: 300px;
+    background-size: cover;
+    width: 300px;
+    background-repeat: no-repeat;
+    object-fit: initial;
+    border-radius: 10px;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ! important; */
+}
+.sh_text
+{
+    /* height: 300px; */
+    /* background-size: cover; */
+    width: 380px;
+    /* background-repeat: no-repeat; */
+    /* object-fit: initial; */
+    /* border-radius: 10px; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ! important;
+}
+.content-wrapper {
+    background: #fff ! important;
+    padding: 2.75rem 2.25rem;
+    width: 100%;
+    flex-grow: 1;
+}
+.auth .brand-logo img {
+    height: 70px;
+    width: 90px;
+}
+
+.container-scroller
+{
+    height:100vh ! important;
+    background: #f5f5f5f5 ! important;
+}
+.auth form .form-group .form-control
+{
+    background: #f5f5f5 ! important;
+}
+.center1
+{
+    text-align: center;
+    font-size: 25px;
+}
+.btn3{
+    color:white ;
+    background-color: #f39213;
+    padding: 10px;
+    height: 45px;
+    width: 100px;
+    font-weight: bolder;
+    margin-right: -100px;
+    border-radius: 5px;
+    text-decoration: none;
+    border: none ! important;
+}
+.btn3:hover{
+    
+    background-color: #000 ! important
+
+}
+.form-control-lg {
+ 
+    padding: 0.94rem 1rem !important
+}
+.msg_centered{
+    color: red !important;
+}
+.pt-3{
+    margin-left: 50px;
+}
+.h-auto{
+    width: 700px;
+}
+.side_one img{
+    width: 100% !important;
+    
+}
+.side_one{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.right_one_one{
+    background: #fff;
+    height: 100% ! important;
+}
+.right_one_one1{
+    background: #fff;
+}
+.add_wd{
+    min-width: 100% !important;
+}
+.sh_a{
+    width:600px;
+    /* box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) ! important;
+    background-color: #fff !important;
+}
+.h3
+{
+    color: #475569;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 25px !important;
+}
+.card_bor{
+    border-bottom: 0px solid rgba(0, 0, 0, .125) !important;
+    padding-bottom: 0px ! important;
+    margin-bottom: 0px ! important;
+}
+.sh_card{
+    padding: 4px 23px !important;
+}
+.input-group-alternative{
+    transition: box-shadow 0.15s ease !important;
+    border: 1px solid #ccc !important;
+}
+/* .sh_card_b{
+    background-color: transparent !important;
+    color: #475569 !important;
+    font-weight: 500 !important;
+    font-size: 17px !important;
+} */
+.sh_card_b {
+    background-color: initial !important;
+    color: rgb(71, 85, 105) !important;
+    font-size: 17px !important;
+    font-weight: 500 !important;
+}
+
+.shcard_f{
+    text-align: left !important;
+}
+.bt_color{
+    background-color: #000 !important;
+    border-color: #000 !important;
+    color:#fff !important;
+    padding: 12px 24px !important;
+    border-radius: 10px !important;
+    margin-top: 8px ! important;
+    opacity: 1.1 !important;
+}
+.bt_color:hover {
+    color: #fff;
+    background-color: #000!important;
+    border-color: #000 !important;
+    opacity: 0.8 !important;
+}
+.hw{
+    font-size: 30px;
+    color: #fff;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.hw2{
+    font-size: 16px;
+    color: #fff;
+    font-weight: 500;
+    padding-top: 8px;
+    line-height: normal;
+}
+.bg-default{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+
+}
+.log_one{
+    font-size: 22px !important;
+    padding-left: 4px !important;
+}
+.cos_left{
+    padding-left: 3px !important;
+}
+.b_one{
+    color: #1E3A8A !important;
+    font-weight: 500 !important;
+
+}
+.b_one:hover{
+    color: #1E3A8A !important;
+    font-weight: 500 !important;
+}
+.forgot_one{
+    text-align: right !important;
+    font-size: 14px;
+    margin-right: 20px;
+}
+.forgot_one:hover{
+    color: #4e77e9 !important;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 768px)
+{
+
+.sh_a {
+    width: 100% !important;
+}
+.right_one img{
+    height: 211px !important;
+    object-fit: fill !important;
+    width: 211px !important;
+    margin-left: 30px !important;
+}
+.hw {
+    font-size: 20px !important;
+    font-weight: 700 !important;
+    padding-top: 17px !important;
+    padding-left: 30px !important;
+}
+.hw2 {
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    line-height: normal !important;
+    padding-top: 8px !important;
+    padding-left: 30px !important;
+    padding-right: 10px !important;
+}
+.sh_a {
+    left: 50% !important;
+    position: absolute !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important ;
+    width: 100% !important;
+}
+.right_one {
+    border-radius: 20px !important;
+    display: none ! important;
+}
+.bg-default {
+
+    background-color: rgb(30, 58, 138) !important;
+}
+.left_one {
+    height: 100vh !important;
+    background: #fff;
+    margin: 15px 10px 15px 10px;
+    border-radius: 10px;
+}
+.h3
+{
+    margin-bottom: 0px !important; 
+}
+.bt_color {
+    width: 100% !important;
+}
+
+ 
+}

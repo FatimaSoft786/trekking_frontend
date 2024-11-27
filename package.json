@@ -1,0 +1,85 @@
+{
+  "name": "trek Travel",
+  "version": "2.0.1",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.15.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@tinymce/tinymce-react": "^5.1.1",
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
+    "axios": "^1.7.2",
+    "bootstrap": "4.6.0",
+    "chartist": "0.11.4",
+    "ddslick": "^1.0.3",
+    "dotenv": "^16.4.5",
+    "formik": "^2.4.6",
+    "froala-editor": "^4.2.2",
+    "gulp": "4.0.2",
+    "gulp-append-prepend": "1.0.9",
+    "jodit-react": "^4.1.2",
+    "jquery-ui": "^1.13.3",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.8.2",
+    "react": ">=16.8.0",
+    "react-bootstrap": "2.4.0",
+    "react-bootstrap-table2-paginator": "^2.1.2",
+    "react-chartist": "0.14.4",
+    "react-data-table-component": "^7.6.2",
+    "react-dom": ">=16.8.0",
+    "react-dropzone": "^14.2.3",
+    "react-export-table-to-excel": "^1.0.6",
+    "react-froala-wysiwyg": "^4.2.2",
+    "react-notification-alert": "0.0.13",
+    "react-places-autocomplete": "^7.3.0",
+    "react-quill": "^2.0.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "^6.23.1",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.8.0",
+    "react-to-print": "^2.15.1",
+    "reactstrap": "8.8.1",
+    "sass": "1.53.0",
+    "save": "^2.9.0",
+    "slate": "^0.103.0",
+    "slate-react": "^0.110.1",
+    "styled-components": "^6.1.11",
+    "url": "",
+    "yup": "^1.4.0"
+  },
+  "optionalDependencies": {
+    "jquery": "^3.5.1",
+    "typescript": "4.7.4"
+  },
+  "bugs": {
+    "url": "http://3.208.52.220/trektravel/"
+  },
+  "homepage": "http://3.208.52.220/trektravel/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start",
+    "compile:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.css",
+    "minify:scss": "sass src/assets/scss/light-bootstrap-dashboard-pro-react.scss src/assets/css/light-bootstrap-dashboard-pro-react.min.css --style compressed",
+    "build:scss": "npm run compile:scss && npm run minify:scss"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

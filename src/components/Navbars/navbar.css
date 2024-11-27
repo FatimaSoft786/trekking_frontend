@@ -1,0 +1,13 @@
+.bColor_one{
+    background-color: #000 !important;
+}
+.navbar .navbar-brand {
+    font-weight: 500;
+    margin: 5px 0px;
+    font-size: 25px;
+    color: #fff;
+}
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+ 
+}
