@@ -52,10 +52,6 @@
     "jquery": "^3.5.1",
     "typescript": "4.7.4"
   },
-  "bugs": {
-    "url": "http://3.208.52.220/trektravel/"
-  },
-  "homepage": "http://3.208.52.220/trektravel/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
